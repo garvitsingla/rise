@@ -157,7 +157,7 @@ img {
 
 .section-subtitle {
     text-align: center;
-    color: var(--gray-600) !important;
+    color: var(--gray-400) !important;
     font-size: clamp(0.95rem, 2vw, 1.1rem);
     margin-bottom: 48px;
 }
