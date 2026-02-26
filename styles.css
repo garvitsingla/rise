@@ -79,7 +79,7 @@ body {
 .page-wrapper {
     position: relative;
     background:
-        url('assets/backdrop3.png') center top / cover no-repeat fixed;
+        url('assets/new_background_1.png') center top / cover no-repeat fixed;
 }
 
 /* Static overlay removed — per-section tint used instead */
