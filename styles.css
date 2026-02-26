@@ -143,7 +143,7 @@ img {
     font-size: clamp(1.8rem, 4vw, 2.5rem);
     font-weight: 800;
     text-align: center;
-    color: var(--white);
+    color: var(--white) !important;
     margin-bottom: 16px;
     letter-spacing: -0.02em;
 }
@@ -157,7 +157,7 @@ img {
 
 .section-subtitle {
     text-align: center;
-    color: var(--white);
+    color: rgba(255, 255, 255, 0.75) !important;
     font-size: clamp(0.95rem, 2vw, 1.1rem);
     margin-bottom: 48px;
 }
