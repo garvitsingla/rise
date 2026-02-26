@@ -157,7 +157,7 @@ img {
 
 .section-subtitle {
     text-align: center;
-    color: var(--gray-400) !important;
+    color: var(--gray-400);
     font-size: clamp(0.95rem, 2vw, 1.1rem);
     margin-bottom: 48px;
 }
@@ -411,7 +411,7 @@ img {
 
 .hero-subtitle {
     font-size: clamp(0.95rem, 2vw, 1.2rem);
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(203, 213, 225, 0.75);
     font-weight: 300;
     margin-bottom: 20px;
     letter-spacing: 0.02em;
